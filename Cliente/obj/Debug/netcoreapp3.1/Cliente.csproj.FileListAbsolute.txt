@@ -1,0 +1,15 @@
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.exe
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.deps.json
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.json
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.dev.json
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\walla\source\repos\Cliente\bin\Debug\netcoreapp3.1\Cliente.pdb
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.csprojAssemblyReference.cache
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.Form1.resources
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.csproj.GenerateResource.cache
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfoInputs.cache
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfo.cs
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.pdb
+C:\Users\walla\source\repos\Cliente\obj\Debug\netcoreapp3.1\Cliente.genruntimeconfig.cache
