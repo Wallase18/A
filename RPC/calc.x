@@ -1,13 +1,13 @@
-struct values /* estrutura de dados para enviar os parâmetros  */
+struct values
 {
 	float num1;
 	float num2;
 	char operation;
 };
 
-program COMPUTE /* nome do programa */
+program COMPUTE
 {
-	version COMPUTE_VERS /* nome da versão do programa */
+	version COMPUTE_VERS
 	{
 		float ADD(values) = 1;
 		float SUB(values) = 2;

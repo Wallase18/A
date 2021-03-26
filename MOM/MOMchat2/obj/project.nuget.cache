@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yY4VOsON5xvNTQ0YZBCz7bSXi1IkazuLeAwoNdQjMn+dRE/RN0AdkJd8YIPZ9DZFLV7l4KXin248IrobU0Y8Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\walla\\source\\repos\\MOMchat2\\MOMchat2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walla\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\walla\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\walla\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
